@@ -14,7 +14,7 @@ router.get("/", auth, async (req, res) => {
   res.send(rentals);
 });
 
-///sadsadsadsaada
+///sadsadsadsaadasdasd
 
 router.post("/", auth, async (req, res) => {
   const { error } = validate(req.body);
