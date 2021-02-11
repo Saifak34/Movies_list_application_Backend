@@ -1,0 +1,26 @@
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T03:57:19.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T03:57:20.018Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T21:17:36.233Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T21:17:36.258Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T21:20:04.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T21:20:04.476Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T21:21:06.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T21:21:06.958Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T21:23:23.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T21:23:23.759Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-06T21:29:12.272Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-06T21:29:12.312Z"}
+{"message":"Unexpected token } in JSON at position 61","stack":"SyntaxError: Unexpected token } in JSON at position 61\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:327:22)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"email\" : \"user1@domain.com\",\n\t\"password\": \"123456\",\n    \n}","type":"entity.parse.failed","level":"error","timestamp":"2021-02-07T00:33:21.413Z"}
+{"message":"Unexpected token ' in JSON at position 47","stack":"SyntaxError: Unexpected token ' in JSON at position 47\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\SaifalikhanPathan\\vidly-api-node\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:327:22)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)","expose":true,"statusCode":400,"status":400,"body":"{\n\t\"email\" : \"user12@domain.com\",\n\t\"password\": '123456',\n    \"name\": \"Saif\"\n}","type":"entity.parse.failed","level":"error","timestamp":"2021-02-07T01:43:09.907Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-07T01:51:39.423Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-07T01:51:39.454Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-07T21:18:35.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-07T21:18:35.745Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-07T22:48:05.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-07T22:48:05.973Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-09T02:51:52.747Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-09T02:51:52.934Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-10T03:17:48.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-10T03:17:48.647Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2021-02-11T05:03:43.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2021-02-11T05:03:43.664Z"}
